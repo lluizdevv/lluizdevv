@@ -2,7 +2,7 @@
 
 Sobre Mim
 - 👤 Luiz Vinicius
-- 🎓 Sistemas de Informação - UFRPE (3/9)
+- 🎓 Sistemas de Informação - UFRPE (4/9)
 - 📊 Business Analyst - Seed a Bit Tecnolgia
 - 🎲 Data Enthusiat
 
