@@ -3,7 +3,7 @@
 Sobre Mim
 - 👤 Luiz Vinicius
 - 🎓 Sistemas de Informação - UFRPE (4/9)
-- 📊 Business Analyst - Seed a Bit Tecnolgia
+- 🧑‍💻 Automation & Operations Intern - Atende Direito
 - 🎲 Data Enthusiat
 
 Redes Sociais
